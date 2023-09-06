@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @money-k
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently in college
-- I know basics of java, c, c++, html(css+Js).
+- I know the basics of Java, C, C++, and HTML (CSS+JS).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

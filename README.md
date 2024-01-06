@@ -2,8 +2,8 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently in college
 - I know the basics of Java, C, C++, and HTML (CSS+JS).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects relating HTML
+- 📫 Reach me KaurManpreetM@outlook.com
 
 <!---
 money-k/money-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

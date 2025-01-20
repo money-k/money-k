@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently in college
 - I know the basics of Java, C, C++, and HTML (CSS+JS).
-- 💞️ I’m looking to collaborate on projects relating HTML
+- 💞️ I’m looking to collaborate on projects relating to JAVA Development
 - 📫 Reach me KaurManpreetM@outlook.com
 
 <!---

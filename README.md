@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @money-k
 - 👀 I’m interested in programming
 - 🌱 I’m currently in college
-- I know the basics of Java, C, C++, PHP, and HTML (CSS+JS).
 - 💞️ I’m looking to collaborate on projects relating to JAVA Development
 - 📫 Reach me KaurManpreetM@outlook.com
 
